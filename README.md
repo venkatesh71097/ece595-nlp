@@ -1,5 +1,4 @@
 # ece595-nlp
-Code for ECE595 project
 
 We go on to implement 'Emoji Powered Capsule Network to Detect Type and Target of Offensive Posts in Social Media' with aid from the official GitHub repository. Since there are three different subtasks like 
 
